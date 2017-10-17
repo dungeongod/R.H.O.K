@@ -203,6 +203,4 @@
 <![endif]-->
 
 </body>
-
-<!-- Cloned by RabinsXP.com-->
 </html>
