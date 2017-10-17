@@ -477,6 +477,4 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 		<script src="assets/plugins/sky-forms-pro/skyforms/js/jquery.placeholder.min.js"></script>
 	<![endif]-->
 </body>
-
-<!-- Cloned by RabinsXP.com-->
 </html>
